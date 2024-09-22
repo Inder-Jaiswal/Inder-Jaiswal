@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inder-Jaiswal
 - 👀 I’m interested in fullstack web dev, automation, three.js websites
-- 🌱 I’m currently learning angular 17
+- 🌱 I’m currently learning angular 18 and signals with rxjs
 - 💞️ I’m looking to collaborate on web dev and design project
 - 📫 How to reach me -- inderjaiswal00@yahoo.com
 - 😄 Pronouns: ... dev
